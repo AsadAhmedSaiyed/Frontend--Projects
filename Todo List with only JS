@@ -1,3 +1,4 @@
+//input quit, list, add, delete
 let todo = [];
 let n= prompt("Enter :");
 while(true){
